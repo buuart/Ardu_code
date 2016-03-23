@@ -1,0 +1,1806 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"tr",
+				"truefalseflag"
+			],
+			[
+				"alt",
+				"altTable2"
+			],
+			[
+				"al",
+				"altTable2"
+			],
+			[
+				"code",
+				"codeLock"
+			],
+			[
+				"com",
+				"command"
+			],
+			[
+				"inp",
+				"input"
+			],
+			[
+				"pas",
+				"passw"
+			],
+			[
+				"ps",
+				"passw"
+			],
+			[
+				"setu",
+				"setup	Arduino setup"
+			],
+			[
+				"b",
+				"byte	Arduino byte()"
+			],
+			[
+				"deb",
+				"debugin"
+			],
+			[
+				"digit",
+				"digitalWrite	Arduino digitalWrite"
+			],
+			[
+				"resu",
+				"resultPin"
+			],
+			[
+				"loW",
+				"LOW"
+			],
+			[
+				"dig",
+				"digitalWrite	Arduino digitalWrite"
+			],
+			[
+				"seri",
+				"Serial"
+			],
+			[
+				"bits",
+				"bits"
+			],
+			[
+				"byte",
+				"byteMorse"
+			],
+			[
+				"digi",
+				"digitalWrite	Arduino digitalWrite"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"N",
+				"NAME"
+			],
+			[
+				"hr",
+				"hrD"
+			],
+			[
+				"anal",
+				"analogWrite	Arduino analogWrite"
+			],
+			[
+				"case",
+				"caseSelector"
+			],
+			[
+				"sw",
+				"switch	Arduino switch"
+			],
+			[
+				"HIGH",
+				"HIGH"
+			],
+			[
+				"pri",
+				"println"
+			],
+			[
+				"new",
+				"newResultat"
+			],
+			[
+				"HC",
+				"HC165"
+			],
+			[
+				"shi",
+				"shiftOut	Arduino shiftOut()"
+			],
+			[
+				"d",
+				"define	Arduino Macro define"
+			],
+			[
+				"DEC",
+				"decltype"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"res",
+				"resByteArray"
+			],
+			[
+				"bit",
+				"bitwise"
+			],
+			[
+				"low",
+				"LOW"
+			],
+			[
+				"lig",
+				"light_sw"
+			],
+			[
+				"def",
+				"define"
+			],
+			[
+				"shift",
+				"shiftOut"
+			],
+			[
+				"pu",
+				"pump"
+			],
+			[
+				"hour",
+				"Hours1"
+			],
+			[
+				"data",
+				"dataPin"
+			],
+			[
+				"clea",
+				"clear_hex"
+			],
+			[
+				"Low",
+				"LOW"
+			],
+			[
+				"digita",
+				"digitalWrite"
+			],
+			[
+				"clo",
+				"clockPin"
+			],
+			[
+				"da",
+				"dataPin"
+			],
+			[
+				"ho",
+				"Hours"
+			],
+			[
+				"shif",
+				"shiftOut"
+			],
+			[
+				"string",
+				"String"
+			],
+			[
+				"star",
+				"startMinute"
+			],
+			[
+				"fin",
+				"finishMinute"
+			],
+			[
+				"fini",
+				"finishHour"
+			],
+			[
+				"stra",
+				"startHour"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"swi",
+				"switcher"
+			],
+			[
+				"Ana",
+				"analogRead"
+			],
+			[
+				"high",
+				"HIGH"
+			],
+			[
+				"do",
+				"dowihle	Arduino do-while"
+			],
+			[
+				"int",
+				"int"
+			],
+			[
+				"ana",
+				"analogWrite	Arduino analogWrite"
+			],
+			[
+				"sele",
+				"selector2"
+			],
+			[
+				"sel",
+				"selector2"
+			],
+			[
+				"se",
+				"setup	Arduino setup"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "ssa",
+		"selected_items":
+		[
+			[
+				"ssa",
+				"Set Syntax: Arduino"
+			],
+			[
+				"ssh",
+				"Set Syntax: HTML"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"sspl",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"sspy",
+				"Set Syntax: Python"
+			],
+			[
+				"SSp",
+				"Set Syntax: Python"
+			],
+			[
+				"ssb",
+				"Set Syntax: Batch File"
+			],
+			[
+				"ssp",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"SSa",
+				"Set Syntax: Arduino"
+			],
+			[
+				"ssba",
+				"Set Syntax: Batch File"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Arduino analogWrite"
+			],
+			[
+				"ssph",
+				"Set Syntax: PHP"
+			],
+			[
+				"ss",
+				"Set Syntax: Arduino"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"add",
+				"Package Control: Add Repository"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ad	",
+				"Package Control: Add Channel"
+			],
+			[
+				"ssar",
+				"Set Syntax: Arduino"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ssc",
+				"Set Syntax: C++"
+			],
+			[
+				"VIEW",
+				"View: Toggle Menu"
+			],
+			[
+				"view",
+				"View: Toggle Menu"
+			],
+			[
+				"pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"sshtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"side ba",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"view ",
+				"View: Toggle Side Bar"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"ab",
+				"About"
+			]
+		],
+		"width": 362.0
+	},
+	"console":
+	{
+		"height": 120.0,
+		"history":
+		[
+			"C:\\Program Files (x86)\\Arduino",
+			"import urllib2,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();os.makedirs(ipp) if not os.path.exists(ipp) else None;open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"packages"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/E/Resolume.Arena.v5.0-UNION/crack/crack.txt",
+		"/C/drv/INSTALL/README.TXT",
+		"/C/html+css/style.css",
+		"/C/ard_sketch/ESP_bsd_old_ver.ino",
+		"/C/ard_sketch/ESP_bsd.ino",
+		"/C/html+css/index.html",
+		"/C/Users/Андрей/Documents/Arduino/hardware/attiny/avr/platform.txt",
+		"/C/aperture/bintable.txt",
+		"/C/aperture/perf_11",
+		"/C/aperture/simbols",
+		"/C/Users/A4F7~1/AppData/Local/Temp/Arduino/018421/018421.ino",
+		"/C/ard_sketch/byte2digits/test.ino",
+		"/C/aperture/dialog.py",
+		"/C/text_bin",
+		"/C/Users/Андрей/Dropbox/Dropbox/Шиликов/Владивосток/obj_3_Мельниковская 101/темнота/узлы/говорящие_кнопки/node_говорящие_кнопки_software/firmware.ino",
+		"/C/Users/Андрей/Documents/My Games/Skyrim/RendererInfo.txt",
+		"/C/test1.py",
+		"/C/Python34/Tools/Scripts/README.txt",
+		"/C/aperture/str.bat",
+		"/C/aperture/1.bat",
+		"/C/aperture/help",
+		"/C/Python34/Tools/Scripts/byteyears.py",
+		"/C/Python34/Lib/site-packages/pip/commands/help.py",
+		"/C/Python34/Tools/Scripts/md5sum.py",
+		"/C/Users/Андрей/Desktop/Новый текстовый документ.txt",
+		"/C/test1.txt",
+		"/C/test.txt",
+		"/C/Users/Андрей/Dropbox/Dropbox/Шиликов/Сахалин/людоед/SAHALIN_FINAL/Register.ino",
+		"/C/Users/Андрей/Dropbox/Dropbox/Шиликов/Сахалин/людоед/SAHALIN_FINAL/Clock.ino",
+		"/C/Users/Андрей/Dropbox/Dropbox/Шиликов/Сахалин/людоед/SAHALIN_FINAL/SAHALIN_FINAL.ino",
+		"/C/Users/Андрей/Dropbox/Dropbox/Шиликов/Сахалин/людоед/SAHALIN_FINAL/DOP.ino",
+		"/C/Users/Андрей/Google Диск/Ard_sketch/ard_sketch/new/esp_bits_operation.ino",
+		"/c/program files (x86)/arduino/examples/01.Basics/Blink/Blink.ino",
+		"/C/Users/Андрей/AppData/Local/Temp/Stino_build/node_говорящие_кнопки_software/last_build.txt",
+		"/C/Users/Андрей/Dropbox/Dropbox/Шиликов/Владивосток/obj_3_Мельниковская 101/темнота/узлы/Лабиринт/Лабиринт.txt",
+		"/C/ard_sketch/hc165.ino",
+		"/C/ard_sketch/hc595.ino",
+		"/C/ard_sketch/hourChange.ino",
+		"/C/ard_sketch/text_refactoring_caseSelector.ino",
+		"/C/ard_sketch/ByteWrite.ino",
+		"/C/ard_sketch/bitrewrite.ino",
+		"/C/ard_sketch/esp_bits_operation.ino",
+		"/C/Users/Андрей/Desktop/script/new_project.bat",
+		"/C/Users/Андрей/Desktop/script/new_node.bat",
+		"/C/Users/Андрей/Desktop/.txt",
+		"/C/Users/Андрей/Desktop/script/Пульт_упарвления_темнотой/Пульт_упарвления_темнотой.txt",
+		"/C/Users/Андрей/Dropbox/Dropbox/Шиликов/new_project.bat",
+		"/C/Users/Андрей/Dropbox/Dropbox/Шиликов/new_referal_project.bat",
+		"/C/Users/Андрей/Desktop/scripr/new_node.bat",
+		"/C/Users/Андрей/Desktop/scripr/силует_кролика/силует_кролика.txt",
+		"/C/Users/Андрей/Desktop/scripr/new_node/new_node.txt",
+		"/C/Users/Андрей/Desktop/scripr/new_turma/new_turma.txt",
+		"/C/Users/Андрей/Desktop/scripr/телетайп/телетайп.txt",
+		"/C/Users/Андрей/Desktop/scripr/сс.txt",
+		"/C/Users/Андрей/Dropbox/Dropbox/Шиликов/new_node.bat",
+		"/C/Users/Андрей/Dropbox/Dropbox/Шиликов/ЖОПА_мира/ЖОПА_мира.txt",
+		"/C/Users/Андрей/Dropbox/Dropbox/Шиликов/new/new.txt",
+		"/C/Users/Андрей/Dropbox/Dropbox/Шиликов/туц/INTERIOR_туц/туц.txt",
+		"/C/Users/Андрей/Desktop/script_test_plato/new_project.bat",
+		"/C/Users/Андрей/Desktop/script_test_plato/new_referal_project.bat",
+		"/C/Users/Андрей/Dropbox/Dropbox/Шиликов/Владивосток/obj_3_Мельниковская 101/new_project.bat",
+		"/C/Users/Андрей/Dropbox/Dropbox/Шиликов/Владивосток/obj_3_Мельниковская 101/Новая папка/new_project.bat",
+		"/C/Users/Андрей/Dropbox/Dropbox/Шиликов/plan_sahalin",
+		"/C/ard_sketch/new/esp_bits_operation.ino",
+		"/C/Users/Андрей/Desktop/INSTALL/README.TXT",
+		"/C/Users/Андрей/Desktop/ценники",
+		"/C/ard_sketch/esp.sublime-project",
+		"/C/Users/A4F7~1/AppData/Local/Temp/Arduino/998372/998372.ino",
+		"/C/ard_sketch/WifiESP866/ESP_bsd.ino",
+		"/C/ard_sketch/WifiESP866/ByteWrite.ino",
+		"/C/ard_sketch/WifiESP866/bitrewrite.ino",
+		"/C/ard_sketch/WifiESP866/hc165.ino",
+		"/C/ard_sketch/WifiESP866/hc595.ino",
+		"/C/ard_sketch/WifiESP866/text_refactoring_caseSelector.ino",
+		"/C/ard_sketch/WifiESP866/ESP_bsd_old_ver.ino",
+		"/c/program files (x86)/arduino/examples/05.Control/switchCase2/switchCase2.ino",
+		"/c/program files (x86)/arduino/examples/05.Control/switchCase/switchCase.ino",
+		"/C/Users/РђРЅРґСЂРµР№/Dropbox/Dropbox/esp_bits_operation.ino",
+		"/C/Users/Андрей/Desktop/PureBasic_5_31/Ru.txt",
+		"/C/Users/Андрей/Dropbox/Dropbox/inside_quest",
+		"/c/program files (x86)/arduino/examples/08.Strings/StringToIntRGB/StringToIntRGB.ino",
+		"/C/Users/Андрей/AppData/Roaming/Sublime Text 3/Packages/User/Stino/Preferences.stino-settings",
+		"/C/Users/Андрей/Dropbox/Dropbox/гайдлайны по квестам",
+		"/C/Users/Андрей/Dropbox/Dropbox/Общяк/Контакты фор андрей.txt",
+		"/C/Users/Андрей/Dropbox/Dropbox/Общяк/Контакты фор Андрэ.txt",
+		"//NOUTBOOK/d$/fixiki/Тбрма/Новый текстовый документ.txt",
+		"/E/MISC/version.txt",
+		"/C/Users/Андрей/Dropbox/Dropbox/Общая папка/тест.txt",
+		"/C/Program Files/Sublime Text 3/OUTSCOURCE",
+		"/E/отправить по почте/мартен/почта мартена.txt",
+		"/C/Program Files (x86)/Arduino/lib/theme/theme.txt",
+		"/C/Program Files (x86)/Arduino/libraries/WTV20SDBreakout/keywords.txt",
+		"/C/ksp_win/saves/buuart/persistent.sfs",
+		"/C/RX-SSTV/FSKID_Calls.txt",
+		"/C/Users/Андрей/Dropbox/Dropbox/тектовые файлы/ссылки_вкладки_хром.txt",
+		"/C/Users/Андрей/Dropbox/Dropbox/тектовые файлы/trello.txt",
+		"/C/Users/Андрей/Dropbox/Dropbox/ссылки_вкладки_хром.txt",
+		"/C/Users/Андрей/Downloads/Single Servo.py",
+		"/C/Program Files/Blender Foundation/Blender/2.74/scripts/addons/cycles/kernel/util_transform.h",
+		"/C/Users/Андрей/Dropbox/Dropbox/очередность.txt",
+		"/C/ad4.txt",
+		"/C/test2.txt",
+		"/C/test.txt.txt",
+		"/C/ReadMe_Manual.txt",
+		"/C/shdwn.txt",
+		"/C/Users/Андрей/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Андрей/Dropbox/Dropbox/ардуинки/Bus_v11.ino",
+		"/C/Users/Андрей/Dropbox/Dropbox/ардуинки/ыввав.ino",
+		"/C/Users/Андрей/Dropbox/Dropbox/ардуинки/function light.ino",
+		"/C/Users/Андрей/Desktop/проекты/fade.txt",
+		"/C/Users/Андрей/Dropbox/Dropbox/ардуинки/attiny45_comments",
+		"/C/Users/Андрей/Dropbox/Dropbox/ардуинки/attyni45_selector.ino",
+		"/C/KSP_win/KSP_win/saves/buuart/persistent_copy.txt",
+		"/C/KSP_win/KSP_win/saves/buuart/persistent.sfs",
+		"/C/KSP_win/KSP_win64/saves/buuart/persistent.sfs",
+		"/C/Users/Андрей/Desktop/проекты/2 в 3 демультиплексор.txt",
+		"/C/Users/Андрей/Desktop/проекты/мотор 3 фазы.txt",
+		"/C/Users/Андрей/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 46.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\ard_sketch\\WifiESP866"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"LED_BUILTIN",
+			" ",
+			"стол с потайным зеркалом\n",
+			"Кеплер-7",
+			"Магнус-3",
+			"ab4c",
+			"fcfc",
+			"	",
+			"main",
+			"fcfc",
+			"ff",
+			"3d",
+			"1f",
+			"a4",
+			"	",
+			"░",
+			"░░",
+			"	",
+			"█",
+			"▒",
+			"─",
+			"-",
+			"------------------",
+			"-----------------",
+			"----------------",
+			"---------------",
+			"--------------",
+			"-------------",
+			"------------",
+			"-----------",
+			"----------",
+			"---------",
+			"--------",
+			"-------",
+			"------",
+			"-",
+			"!",
+			"21",
+			"пол",
+			"trub",
+			"\"/\";\n",
+			"trub",
+			"4",
+			"3",
+			"500",
+			"1000",
+			"NextPin",
+			"resetPin",
+			"2nd",
+			"resetPin",
+			"250",
+			"500",
+			"50",
+			"100",
+			"dealyArray",
+			"timer",
+			"50",
+			"nodeName",
+			"NAME",
+			"newProjectName",
+			"illustrator",
+			"new_project_name",
+			"project_name",
+			"interval",
+			"ledPin",
+			"caseSelector2",
+			"caseSelector",
+			"messageLength",
+			"inputText",
+			"resultat",
+			"stringOne",
+			"u",
+			"o",
+			"BIN",
+			"shft",
+			"inp",
+			"Hours5",
+			"Hours4",
+			"Hours3",
+			"Hours2",
+			"Hours1",
+			"shiftout",
+			"switcher",
+			"byte",
+			"startMinute",
+			"startHour",
+			"digitalWrite",
+			"thisPin",
+			"survey",
+			"funds",
+			"гтвы",
+			"select",
+			"position",
+			"constraints",
+			"constraints_orientation",
+			"orientayion",
+			"bpy.data",
+			"rotate",
+			"led",
+			"4",
+			"Scenario",
+			"funds",
+			"sci",
+			"name=Research",
+			"science		",
+			"ысш",
+			"2"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.841166936791,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.1447017190.954563":
+	{
+		"height": 100.0
+	},
+	"output.1447017975.213144":
+	{
+		"height": 100.0
+	},
+	"output.1457747507.765442":
+	{
+		"height": 100.0
+	},
+	"output.1457771773.857049":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\Users\\A4F7~1\\AppData\\Local\\Temp\\Arduino\\018421|1449008959.123427":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\Users\\A4F7~1\\AppData\\Local\\Temp\\Arduino\\018421|1449009628.631721":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\Users\\A4F7~1\\AppData\\Local\\Temp\\Arduino\\018421|1449011331.879141":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\Users\\A4F7~1\\AppData\\Local\\Temp\\Arduino\\998372|1447809994.030374":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\Users\\Андрей\\Dropbox\\Dropbox\\Шиликов\\Владивосток\\obj_3_Мельниковская 101\\темнота\\узлы\\говорящие_кнопки\\node_говорящие_кнопки_software|1448921068.105665":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\Users\\Андрей\\Dropbox\\Dropbox\\Шиликов\\Владивосток\\obj_3_Мельниковская 101\\темнота\\узлы\\говорящие_кнопки\\node_говорящие_кнопки_software|1448921152.569496":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\Users\\Андрей\\Dropbox\\Dropbox\\Шиликов\\Владивосток\\obj_3_Мельниковская 101\\темнота\\узлы\\говорящие_кнопки\\node_говорящие_кнопки_software|1448921194.009866":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\Users\\Андрей\\Dropbox\\Dropbox\\Шиликов\\Владивосток\\obj_3_Мельниковская 101\\темнота\\узлы\\говорящие_кнопки\\node_говорящие_кнопки_software|1448921228.666848":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\Users\\Андрей\\Dropbox\\Dropbox\\Шиликов\\Владивосток\\obj_3_Мельниковская 101\\темнота\\узлы\\говорящие_кнопки\\node_говорящие_кнопки_software|1448924426.943779":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\Users\\Андрей\\Dropbox\\Dropbox|1447017204.978987":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\Users\\Андрей\\Dropbox\\Dropbox|1447017602.910488":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\Users\\Андрей\\Google Диск\\Ard_sketch\\ard_sketch\\new|1448227484.71122":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch\\byte2digits|1449007179.714651":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch\\byte2digits|1449007222.544101":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch\\byte2digits|1449007702.591558":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch\\byte2digits|1449007791.117621":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch\\byte2digits|1449007843.748631":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch\\byte2digits|1449007858.916499":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch\\byte2digits|1449007894.884556":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch\\new|1447810311.609539":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch\\new|1447810347.872613":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch\\new|1447810640.540352":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch\\new|1447810663.705677":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch\\new|1447813091.064514":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch\\new|1447813120.88622":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch\\new|1447814048.873298":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch\\new|1447814084.565339":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch\\new|1447814441.978782":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447018009.646408":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447018023.109232":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447018467.912813":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447018652.398737":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447018690.899605":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447019887.773686":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447021077.388728":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447021123.247351":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447021138.935248":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447021316.043378":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447023867.228298":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447037570.471078":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447103035.83724":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447103314.816961":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447103765.596744":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447291836.305744":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447292677.386852":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447292705.886482":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447292741.230503":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447294441.159734":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447294500.904151":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447294544.191627":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447367694.753714":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447367886.615687":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447370332.103561":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447370344.243256":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447370512.232864":
+	{
+		"height": 232.0
+	},
+	"output.build|C:\\ard_sketch|1447392860.500112":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447398268.99846":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447398292.085781":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447644940.830606":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447645068.151889":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447645097.912591":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447645110.767326":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447645136.916822":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447645169.771701":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447645188.9848":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447645221.110637":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447645235.784477":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447645256.391655":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447645272.687587":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447707546.719525":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447707573.273043":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447707602.002687":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447707612.960313":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447707722.770594":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447707747.664018":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447707789.601417":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447707873.826234":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447707891.393239":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447707954.022821":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447707988.09277":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447708006.028796":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447708872.329345":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447708946.421583":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447711640.498675":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447738720.385556":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447738803.736324":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447738917.455828":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447809865.45702":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447809935.800043":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447809962.13655":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447809977.110406":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447810003.625923":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447810012.998459":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447810025.856194":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447810031.040491":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447810045.587323":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447810053.462773":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447810066.788536":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447810102.980606":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447810187.529442":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447810217.140135":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447810247.617878":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1447814390.697849":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1448227428.535521":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\ard_sketch|1448227452.684364":
+	{
+		"height": 100.0
+	},
+	"output.build|c:\\program files (x86)\\arduino\\examples\\01.Basics\\Blink|1447901010.93074":
+	{
+		"height": 100.0
+	},
+	"output.build|c:\\program files (x86)\\arduino\\examples\\01.Basics\\Blink|1447997849.536605":
+	{
+		"height": 100.0
+	},
+	"output.build|c:\\program files (x86)\\arduino\\examples\\01.Basics\\Blink|1447998371.833479":
+	{
+		"height": 100.0
+	},
+	"output.build|c:\\program files (x86)\\arduino\\examples\\01.Basics\\Blink|1448227583.334593":
+	{
+		"height": 100.0
+	},
+	"output.build|c:\\program files (x86)\\arduino\\examples\\01.Basics\\Blink|1448227624.347065":
+	{
+		"height": 100.0
+	},
+	"output.build|c:\\program files (x86)\\arduino\\examples\\01.Basics\\Blink|1448227650.02471":
+	{
+		"height": 100.0
+	},
+	"output.build|c:\\program files (x86)\\arduino\\examples\\01.Basics\\Blink|1448227728.898449":
+	{
+		"height": 100.0
+	},
+	"output.build|c:\\program files (x86)\\arduino\\examples\\01.Basics\\Blink|1448227734.358459":
+	{
+		"height": 100.0
+	},
+	"output.build|c:\\program files (x86)\\arduino\\examples\\01.Basics\\Blink|1448232633.894987":
+	{
+		"height": 100.0
+	},
+	"output.build|c:\\program files (x86)\\arduino\\examples\\01.Basics\\Blink|1448232664.769753":
+	{
+		"height": 100.0
+	},
+	"output.build|c:\\program files (x86)\\arduino\\examples\\01.Basics\\Blink|1448232675.809384":
+	{
+		"height": 100.0
+	},
+	"output.build|c:\\program files (x86)\\arduino\\examples\\01.Basics\\Blink|1448232828.938143":
+	{
+		"height": 100.0
+	},
+	"output.build|c:\\program files (x86)\\arduino\\examples\\01.Basics\\Blink|1448335237.076602":
+	{
+		"height": 100.0
+	},
+	"output.build|c:\\program files (x86)\\arduino\\examples\\01.Basics\\Blink|1448335284.084291":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.upload|C:\\Users\\A4F7~1\\AppData\\Local\\Temp\\Arduino\\018421|1449008971.860156":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\A4F7~1\\AppData\\Local\\Temp\\Arduino\\018421|1449009055.309929":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\A4F7~1\\AppData\\Local\\Temp\\Arduino\\018421|1449009137.49763":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\A4F7~1\\AppData\\Local\\Temp\\Arduino\\018421|1449009173.737702":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\A4F7~1\\AppData\\Local\\Temp\\Arduino\\018421|1449009187.304478":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\A4F7~1\\AppData\\Local\\Temp\\Arduino\\018421|1449009199.559179":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\A4F7~1\\AppData\\Local\\Temp\\Arduino\\018421|1449009242.349627":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\A4F7~1\\AppData\\Local\\Temp\\Arduino\\018421|1449009255.933404":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\A4F7~1\\AppData\\Local\\Temp\\Arduino\\018421|1449009283.112958":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\A4F7~1\\AppData\\Local\\Temp\\Arduino\\018421|1449009311.408577":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\A4F7~1\\AppData\\Local\\Temp\\Arduino\\018421|1449009324.762341":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\A4F7~1\\AppData\\Local\\Temp\\Arduino\\018421|1449009374.423181":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\A4F7~1\\AppData\\Local\\Temp\\Arduino\\018421|1449009430.200371":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\A4F7~1\\AppData\\Local\\Temp\\Arduino\\018421|1449009444.745203":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\A4F7~1\\AppData\\Local\\Temp\\Arduino\\018421|1449009474.965932":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\A4F7~1\\AppData\\Local\\Temp\\Arduino\\018421|1449009503.311553":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\A4F7~1\\AppData\\Local\\Temp\\Arduino\\018421|1449009635.758129":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\A4F7~1\\AppData\\Local\\Temp\\Arduino\\018421|1449010080.234551":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\A4F7~1\\AppData\\Local\\Temp\\Arduino\\018421|1449010106.112031":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\A4F7~1\\AppData\\Local\\Temp\\Arduino\\018421|1449010119.136776":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\A4F7~1\\AppData\\Local\\Temp\\Arduino\\018421|1449010136.717782":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\A4F7~1\\AppData\\Local\\Temp\\Arduino\\018421|1449010249.493232":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\A4F7~1\\AppData\\Local\\Temp\\Arduino\\018421|1449010263.880055":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\A4F7~1\\AppData\\Local\\Temp\\Arduino\\018421|1449011315.643212":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\A4F7~1\\AppData\\Local\\Temp\\Arduino\\018421|1449011340.485633":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\A4F7~1\\AppData\\Local\\Temp\\Arduino\\018421|1449011346.661987":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\A4F7~1\\AppData\\Local\\Temp\\Arduino\\018421|1449011368.703247":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\A4F7~1\\AppData\\Local\\Temp\\Arduino\\018421|1449011399.411004":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\A4F7~1\\AppData\\Local\\Temp\\Arduino\\018421|1449011468.635963":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\A4F7~1\\AppData\\Local\\Temp\\Arduino\\018421|1449011500.456783":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\A4F7~1\\AppData\\Local\\Temp\\Arduino\\018421|1449011530.914525":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\A4F7~1\\AppData\\Local\\Temp\\Arduino\\018421|1449011577.652199":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\A4F7~1\\AppData\\Local\\Temp\\Arduino\\018421|1449011608.894986":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\A4F7~1\\AppData\\Local\\Temp\\Arduino\\018421|1449011639.503736":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\A4F7~1\\AppData\\Local\\Temp\\Arduino\\018421|1449015124.840086":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\Андрей\\Google Диск\\Ard_sketch\\ard_sketch\\new|1448227516.472876":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\ard_sketch\\byte2digits|1449007297.19237":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\ard_sketch\\byte2digits|1449007373.75975":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\ard_sketch\\byte2digits|1449007900.516878":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\ard_sketch\\byte2digits|1449007948.993651":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\ard_sketch\\new|1447810668.005923":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\ard_sketch\\new|1447810744.186281":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\ard_sketch\\new|1447810879.32401":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\ard_sketch\\new|1447813124.259413":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\ard_sketch|1447018149.017053":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\ard_sketch|1447018254.317238":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\ard_sketch|1447018354.516214":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\ard_sketch|1447018473.825224":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\ard_sketch|1447019892.91798":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\ard_sketch|1447021143.376502":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\ard_sketch|1447021319.899599":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\ard_sketch|1447037574.606315":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\ard_sketch|1447037677.68021":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\ard_sketch|1447043149.630188":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\ard_sketch|1447043238.273258":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\ard_sketch|1447103894.079093":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\ard_sketch|1447104005.263452":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\ard_sketch|1447104142.64531":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\ard_sketch|1447104224.99802":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\ard_sketch|1447104258.468935":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\ard_sketch|1447104724.950616":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\ard_sketch|1447104797.152746":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\ard_sketch|1447105355.464679":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\ard_sketch|1447105564.197618":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\ard_sketch|1447106042.835995":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\ard_sketch|1447291000.128918":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\ard_sketch|1447291013.066658":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\ard_sketch|1447292011.57877":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\ard_sketch|1447292746.476803":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\ard_sketch|1447292770.172159":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\ard_sketch|1447367703.78323":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\ard_sketch|1447370350.703625":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\ard_sketch|1447370535.06917":
+	{
+		"height": 240.0
+	},
+	"output.upload|C:\\ard_sketch|1447392872.942824":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\ard_sketch|1447398315.457118":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\ard_sketch|1447645290.948632":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\ard_sketch|1447645330.631902":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\ard_sketch|1447645370.442179":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\ard_sketch|1447645609.585857":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\ard_sketch|1447708053.020483":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\ard_sketch|1447711644.24689":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\ard_sketch|1447711746.946764":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\ard_sketch|1447738732.494249":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\ard_sketch|1447738808.433592":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\ard_sketch|1447738921.876081":
+	{
+		"height": 100.0
+	},
+	"output.upload|c:\\program files (x86)\\arduino\\examples\\01.Basics\\Blink|1447901035.528147":
+	{
+		"height": 100.0
+	},
+	"output.upload|c:\\program files (x86)\\arduino\\examples\\01.Basics\\Blink|1447901047.655841":
+	{
+		"height": 100.0
+	},
+	"output.upload|c:\\program files (x86)\\arduino\\examples\\01.Basics\\Blink|1447997858.458116":
+	{
+		"height": 100.0
+	},
+	"output.upload|c:\\program files (x86)\\arduino\\examples\\01.Basics\\Blink|1447998375.049663":
+	{
+		"height": 100.0
+	},
+	"output.upload|c:\\program files (x86)\\arduino\\examples\\01.Basics\\Blink|1448227656.545522":
+	{
+		"height": 100.0
+	},
+	"output.upload|c:\\program files (x86)\\arduino\\examples\\01.Basics\\Blink|1448227735.528461":
+	{
+		"height": 100.0
+	},
+	"output.upload|c:\\program files (x86)\\arduino\\examples\\01.Basics\\Blink|1448227748.367283":
+	{
+		"height": 100.0
+	},
+	"output.upload|c:\\program files (x86)\\arduino\\examples\\01.Basics\\Blink|1448227839.161744":
+	{
+		"height": 100.0
+	},
+	"output.upload|c:\\program files (x86)\\arduino\\examples\\01.Basics\\Blink|1448227947.597946":
+	{
+		"height": 100.0
+	},
+	"output.upload|c:\\program files (x86)\\arduino\\examples\\01.Basics\\Blink|1448229338.060476":
+	{
+		"height": 100.0
+	},
+	"output.upload|c:\\program files (x86)\\arduino\\examples\\01.Basics\\Blink|1448229358.837664":
+	{
+		"height": 100.0
+	},
+	"output.upload|c:\\program files (x86)\\arduino\\examples\\01.Basics\\Blink|1448229377.240717":
+	{
+		"height": 100.0
+	},
+	"output.upload|c:\\program files (x86)\\arduino\\examples\\01.Basics\\Blink|1448230127.231614":
+	{
+		"height": 100.0
+	},
+	"output.upload|c:\\program files (x86)\\arduino\\examples\\01.Basics\\Blink|1448230245.930403":
+	{
+		"height": 100.0
+	},
+	"output.upload|c:\\program files (x86)\\arduino\\examples\\01.Basics\\Blink|1448230267.087613":
+	{
+		"height": 100.0
+	},
+	"output.upload|c:\\program files (x86)\\arduino\\examples\\01.Basics\\Blink|1448230323.741854":
+	{
+		"height": 100.0
+	},
+	"output.upload|c:\\program files (x86)\\arduino\\examples\\01.Basics\\Blink|1448230346.222139":
+	{
+		"height": 100.0
+	},
+	"output.upload|c:\\program files (x86)\\arduino\\examples\\01.Basics\\Blink|1448230450.891126":
+	{
+		"height": 100.0
+	},
+	"output.upload|c:\\program files (x86)\\arduino\\examples\\01.Basics\\Blink|1448231237.122096":
+	{
+		"height": 100.0
+	},
+	"output.upload|c:\\program files (x86)\\arduino\\examples\\01.Basics\\Blink|1448232679.671605":
+	{
+		"height": 100.0
+	},
+	"output.upload|c:\\program files (x86)\\arduino\\examples\\01.Basics\\Blink|1448232831.86331":
+	{
+		"height": 100.0
+	},
+	"output.upload|c:\\program files (x86)\\arduino\\examples\\01.Basics\\Blink|1448232867.418344":
+	{
+		"height": 100.0
+	},
+	"output.upload|c:\\program files (x86)\\arduino\\examples\\01.Basics\\Blink|1448232882.775222":
+	{
+		"height": 100.0
+	},
+	"output.upload|c:\\program files (x86)\\arduino\\examples\\01.Basics\\Blink|1448233163.823297":
+	{
+		"height": 100.0
+	},
+	"output.upload|c:\\program files (x86)\\arduino\\examples\\01.Basics\\Blink|1448233186.035567":
+	{
+		"height": 100.0
+	},
+	"output.upload|c:\\program files (x86)\\arduino\\examples\\01.Basics\\Blink|1448233347.208786":
+	{
+		"height": 100.0
+	},
+	"output.upload|c:\\program files (x86)\\arduino\\examples\\01.Basics\\Blink|1448250452.383146":
+	{
+		"height": 100.0
+	},
+	"output.upload|c:\\program files (x86)\\arduino\\examples\\01.Basics\\Blink|1448335255.335646":
+	{
+		"height": 100.0
+	},
+	"output.upload|c:\\program files (x86)\\arduino\\examples\\01.Basics\\Blink|1448335285.9884":
+	{
+		"height": 100.0
+	},
+	"output.upload|c:\\program files (x86)\\arduino\\examples\\01.Basics\\Blink|1448335319.880338":
+	{
+		"height": 100.0
+	},
+	"output.upload|c:\\program files (x86)\\arduino\\examples\\01.Basics\\Blink|1448335336.286276":
+	{
+		"height": 100.0
+	},
+	"output.upload|c:\\program files (x86)\\arduino\\examples\\01.Basics\\Blink|1448335355.043349":
+	{
+		"height": 100.0
+	},
+	"output.upload|c:\\program files (x86)\\arduino\\examples\\01.Basics\\Blink|1448335415.258793":
+	{
+		"height": 100.0
+	},
+	"output.upload|c:\\program files (x86)\\arduino\\examples\\01.Basics\\Blink|1448335482.698651":
+	{
+		"height": 100.0
+	},
+	"output.upload|c:\\program files (x86)\\arduino\\examples\\01.Basics\\Blink|1448335510.886263":
+	{
+		"height": 100.0
+	},
+	"output.upload|c:\\program files (x86)\\arduino\\examples\\01.Basics\\Blink|1448335533.720569":
+	{
+		"height": 100.0
+	},
+	"output.upload|c:\\program files (x86)\\arduino\\examples\\01.Basics\\Blink|1448335751.948051":
+	{
+		"height": 100.0
+	},
+	"output.upload|c:\\program files (x86)\\arduino\\examples\\01.Basics\\Blink|1448336158.353296":
+	{
+		"height": 100.0
+	},
+	"output.upload|c:\\program files (x86)\\arduino\\examples\\01.Basics\\Blink|1448336404.289363":
+	{
+		"height": 100.0
+	},
+	"output.upload|c:\\program files (x86)\\arduino\\examples\\01.Basics\\Blink|1448336435.153128":
+	{
+		"height": 100.0
+	},
+	"output.upload|c:\\program files (x86)\\arduino\\examples\\01.Basics\\Blink|1448336494.003494":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "esp.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"OUTSCOURCE"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 150.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"pinMode"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 132.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
